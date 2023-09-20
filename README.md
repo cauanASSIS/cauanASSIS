@@ -1,6 +1,6 @@
 ### Olá! Eu sou o ️Cauan Assis!
 
-![Assis GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanASSIS&show_icons=true&theme=raducal&count_private=true)
+![Assis GitHub stats](https://github-readme-stats.vercel.app/api?username=cauanASSIS&show_icons=true&theme=dark)
 
 ### Tecnologias que eu utilizo
 
